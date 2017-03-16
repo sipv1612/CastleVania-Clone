@@ -1,0 +1,10 @@
+﻿  SimonCharacter.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\daivies\onedrive\_nhập môn game\castlevania(20-12)\castlevania\castlevania\simoncharacter.cpp(13): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\daivies\onedrive\_nhập môn game\castlevania(20-12)\castlevania\castlevania\simoncharacter.cpp(16): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\daivies\onedrive\_nhập môn game\castlevania(20-12)\castlevania\castlevania\simoncharacter.cpp(236): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\daivies\onedrive\_nhập môn game\castlevania(20-12)\castlevania\castlevania\simoncharacter.cpp(238): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\daivies\onedrive\_nhập môn game\castlevania(20-12)\castlevania\castlevania\simoncharacter.cpp(269): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\daivies\onedrive\_nhập môn game\castlevania(20-12)\castlevania\castlevania\simoncharacter.cpp(111): warning C4715: 'SimonCharacter::RunIntro': not all control paths return a value
+  CastleVania.vcxproj -> C:\Users\DAIVIES\OneDrive\_Nhập môn Game\CastleVania(20-12)\CastleVania\Debug\CastleVania.exe
+  CastleVania.vcxproj -> C:\Users\DAIVIES\OneDrive\_Nhập môn Game\CastleVania(20-12)\CastleVania\Debug\CastleVania.pdb (Partial PDB)

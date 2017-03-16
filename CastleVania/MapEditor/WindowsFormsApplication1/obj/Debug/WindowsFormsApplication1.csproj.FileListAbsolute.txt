@@ -1,0 +1,70 @@
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Game\SE102_G12_13521053_13520974\Game_Mario_Bro3\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Goits\Desktop\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\goits\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Phat Tran\Downloads\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\HK7\13520571_13520601_14520763\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\HK7\MapEditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.AddObject.resources
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DAIVIES\OneDrive\_Nhập môn Game\mapeditor\MapEditor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
